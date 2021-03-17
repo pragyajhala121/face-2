@@ -1,0 +1,42 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px rgb(255, 255, 255);
+    background-color: hotpink;
+}
+.heading_div{
+    float: none;
+    background-color: white;
+    padding: 10px;
+    border-radius: 20px;
+    color: black;
+    box-shadow: 5px 5px 5px rgb(239, 158, 255);
+}
+.heading_div2{
+    font-size: 18px;
+    background-color: rgb(255, 0, 140);
+}
+
+.result_para_tag{
+    font-size: 20px;
+    box-shadow: 5px 5px 5px rgb(239, 160, 255);
+    background-color: rgb(255, 0, 140);
+}
+.footer_div{
+    position: fixed;
+    color: rgb(0, 0, 0);
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    line-height: 4;
+    text-align: center;
+    border: 1px solid black;
+}
+
+canvas{
+    border: 5px solid rgb(247, 0, 255);
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px rgb(243, 183, 255);
+    margin-top: 150px;
+}
